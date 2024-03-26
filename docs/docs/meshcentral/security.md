@@ -27,3 +27,13 @@ Adjust these items in your `config.json`
   }
 }
 ```
+
+## Disabling AMT Entirely
+
+```json
+{
+  "settings": {
+    "mpsport": 0
+  }
+}
+```
